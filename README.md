@@ -1,1 +1,1 @@
-# -Stenography
+# Stenography
